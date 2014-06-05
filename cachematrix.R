@@ -1,6 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+# Tim Perkins 140605
+
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
